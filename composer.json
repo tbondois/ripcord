@@ -1,0 +1,24 @@
+{
+    "name": "tbondois/ripcord",
+    "description": "Fork of https://github.com/poef/ripcord, compatible with packagist",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "TB\\Ripcord\\": ""
+        }
+    },
+    "keywords": [
+        "Odoo",
+        "API",
+        "RPC",
+        "XML",
+        "XMLRPC",
+        "XML-RPC"
+    ]
+}
